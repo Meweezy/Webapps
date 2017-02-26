@@ -1,0 +1,16 @@
+	#result {
+		font-weight: bold;
+	}
+			
+	#shape {
+			
+		width: 200px;
+		height: 200px;
+		background-color: red;
+		display:none;
+		position: relative;
+				
+	}
+	body {
+		font-family: 'Candal', sans-serif;
+	}
